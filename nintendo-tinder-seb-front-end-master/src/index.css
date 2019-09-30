@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family:'Press Start 2P', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: orange;
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.specialcontainer {
+    max-width: 50%;
+}
+
+h2 {
+    color: green
+}
+
+.character-name {
+    color: blue
+}
+
+.character-age {
+    color: red
+}
+
+.character-world {
+    color: green
+}
+
+.character-enjoys {
+    color: grey
+}
